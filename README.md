@@ -1,8 +1,8 @@
 # Segmentando pokemons utilizando k-means
 ![](https://tm.ibxk.com.br/2016/07/19/19183755227514.jpg?ims=1120x420)
 
-K-means é uma dos algoritmos mais conhecidos no mundo da computação e que tal aprender como ele funciona com os Simpsons? 
-Ficou interessado(a)? Clique [artigo](https://lauradamacenoalmeida.github.io/blog/blog-8.html) para acessar o meu artigo.
+Segmentação é uma tarefa super importante na ciência de dados, pois com ela conseguimos identificar tipos de perfis dentro da nossa base de dados. E que tal aprender sobre ela de forma prática e construir personas com base na saída do modelo? 
+Ficou interessado(a)? Clique [artigo](https://medium.com/@lauradamaceno/segmentando-pokemons-utilizando-k-means-90bf1bc9e9cb) para acessar o meu artigo.
 
 # Requisitos
 1. [Python 3.6 ou maior](https://www.python.org/downloads/)
