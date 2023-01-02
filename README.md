@@ -26,6 +26,5 @@ pip install pandas
 
 ## Estrutura do projeto
 Atualmente o projeto está dividido assim:
-- Pasta data: contém os dados utilizados para o treinamento do K-means
-- K-means_simpsons.ipynb: contém o código construído.
+- k-means-in-pokemon-dataset.ipynb: contém o código construído.
 
